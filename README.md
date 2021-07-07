@@ -1,6 +1,6 @@
 # MyAndroidApp_LAB2
 
-## Android fundamentals 05.1: Drawables, styles, and themes
+## 05.1: Drawables, styles, and themes
 
 1. Night mode
 
